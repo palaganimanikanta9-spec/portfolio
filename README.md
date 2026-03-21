@@ -28,15 +28,6 @@ The goal of this project is to present my work and skills professionally and cre
 
 ---
 
-## 📂 Project Structure
-
-
-portfolio/
-│── index.html
-│── index.css
-│── README.md
-
----
 
 ## 🌍 Live Demo
 https://palaganimanikanta9-spec.github.io/portfolio/
