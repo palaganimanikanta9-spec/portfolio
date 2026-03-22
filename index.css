@@ -297,6 +297,20 @@ h2 {
   border-color: var(--accent);
 }
 
+.github-link {
+  display: inline-block;
+  margin-top: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  letter-spacing: 0.05em;
+}
+
+.github-link:hover {
+  text-decoration: underline;
+}
+
 /* EDUCATION */
 #education { border-bottom: 1px solid var(--border); }
 
